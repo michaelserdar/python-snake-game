@@ -1,4 +1,4 @@
-#Snake Game 2025 - Learning Python with 100 days of code 
+# Snake Game 2025 - Learning Python with 100 days of code 
 
 ## Program Overview
 This is a version of the snake game created in Python using the 'turtle' module. You play as a snake that is trying to eat 
@@ -6,17 +6,17 @@ food pellets while avoiding the walls and your own tail. The tail of the snake g
 the difficulty level of the game. Eating a pellet increases the player score. 
 
 
-##Features 
+## Features 
 - **Movement**: The snake moves continuously in four directions up, down, left, and right. Controlled with the arrow keys. 
 - **Food**: The snake eats the food pellets causing the tail to grow longer and the score to increase.
 - **Collision Detection**: The game detects the snakes collision with the walls and its own tail ending the game.
 - **Scoreboard**: The score increases by eating food pellets and resets to 0 at game end.
 
-##Requirements 
+## Requirements 
 - Python 3.x
 - 'turtle' module
 
-##How to Play 
+## How to Play 
 1. **Start the game**: Run the program from main to start the game window.
 2. **Control of Snake**: Snake will start in the center of the screen and is controlled with the arrow keys on keyboard.
   - **Up**: Move the snake up.
@@ -41,7 +41,7 @@ the difficulty level of the game. Eating a pellet increases the player score.
    python snake_game.py
 
 
-##License
+## License
 This project is open-source and available for educational purposes. Feel free to modify and improve. 
 
 Enjoy! 
