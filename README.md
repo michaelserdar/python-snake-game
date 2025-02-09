@@ -19,10 +19,10 @@ the difficulty level of the game. Eating a pellet increases the player score.
 ##How to Play 
 1. **Start the game**: Run the program from main to start the game window.
 2. **Control of Snake**: Snake will start in the center of the screen and is controlled with the arrow keys on keyboard.
- - **Up**: Move the snake up.
- - **Down**: Move the snake down.
- - **Left**: Move the snake left.
- - **Right**: Move the snake right.
+  - **Up**: Move the snake up.
+  - **Down**: Move the snake down.
+  - **Left**: Move the snake left.
+  - **Right**: Move the snake right.
 3. **Eating Food**: Touching the pellots grows the snake and increases your score.
 4. **Collisions**: Touching the walls or the snakes tail will end the game and record your high score.
 
@@ -42,7 +42,7 @@ the difficulty level of the game. Eating a pellet increases the player score.
 
 
 ##License
-This project is open-source and available for educational purposes. Feel free to modify and improve =. 
+This project is open-source and available for educational purposes. Feel free to modify and improve. 
 
 Enjoy! 
    
